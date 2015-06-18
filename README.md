@@ -2,7 +2,7 @@
 
 Existe una herramienta muy buena para la auditoría de CMS WordPress, su nombre es Wpscan, esta herramienta permite realizar un análisis de vulnerabilidades para este tipo de gestor de contenidos. Además, esta herramienta permite realizar un ataque de fuerza bruta, el problema radica principalmente en que el ataque de fuerza bruta que hace esta herramienta entrega muchos falsos positivos, por esta razón se comprobó que no es muy fiable al momento de realizar este tipo de ataques.
 
-Por esta razón desarrollé una herramienta escrita en Python la cual denominé BruteWP, esta herramienta permite realizar un ataque de fuerza bruta de manera efectiva y para cualquier versión de WordPress
+Por esta razón se desarrolló una herramienta escrita en Python la cual se denominó BruteWP. Esta herramienta permite realizar un ataque de fuerza bruta de manera efectiva y para cualquier versión de WordPress
 
 
 Usage
