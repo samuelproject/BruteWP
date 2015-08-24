@@ -20,9 +20,15 @@ Screenshots
 
 ![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443298/b0aaefb4-4a56-11e5-9197-345ea189f2fc.JPG)
 
-![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/7840776/5ef00614-046f-11e5-974a-4d74f67993b6.png)
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443294/b0a0dac4-4a56-11e5-928c-bc21ae9d8c57.JPG)
 
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443293/b09fa118-4a56-11e5-927e-2f419219d907.JPG)
 
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443295/b0a25084-4a56-11e5-9454-57579c15fb15.JPG)
+
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443297/b0a51314-4a56-11e5-8ef0-6dadb517d08f.JPG)
+
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443296/b0a38bc0-4a56-11e5-9b50-4715eb7072c4.JPG)
 
 Como se puede observar en la imagen anterior, este script  requiere parámetros obligatorios como son, la URL ejemplo : www.mipagina.com/wp-login.php, el username (Para obtener el username se puede utilizar la herramienta Wpscan), y finalmente el diccionario.
 
