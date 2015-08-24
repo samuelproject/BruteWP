@@ -18,7 +18,7 @@ Screenshots
 ----
 
 
-![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443298/b0aaefb4-4a56-11e5-9197-345ea189f2fc.JPG)
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9444353/8ca1952c-4a5c-11e5-81f3-319e7eb8afc7.JPG)
 
 ![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443294/b0a0dac4-4a56-11e5-928c-bc21ae9d8c57.JPG)
 
