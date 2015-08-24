@@ -32,6 +32,8 @@ Screenshots
 
 Como se puede observar en la imagen anterior, este script  requiere parámetros obligatorios como son, la URL ejemplo : www.mipagina.com/wp-login.php, el username (Para obtener el username se puede utilizar la herramienta Wpscan), y finalmente el diccionario.
 
+El valor agregado que posee esta herramienta, es que si se desea pausar el escaneo, es posible reanudarlo en cualquier momento con la opción -r, esto es muy útil, ya que así se podrá continuar con la auditoría sin ningún problema.
+
 Nota Legal
 ----
 
