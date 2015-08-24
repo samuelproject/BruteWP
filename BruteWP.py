@@ -70,7 +70,7 @@ def conexion():
 |  _ \| '__| | | | __/ _ \ \ /\ / /| |_) |
 | |_) | |  | |_| | ||  __/\ V  V / |  __/ 
 |____/|_|   \__,_|\__\___| \_/\_/  |_|    
-                                        v 1.1
+                                        v 1.1 @Samuel.E
     """
     if args.u != None and args.w != None and args.t != None and args.r:
         attack(args.t,args.u,args.w, True)
