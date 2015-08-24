@@ -10,7 +10,7 @@ Usage
 
 ./BruteWP.py -h 
 
-./BruteWP.py -t [target] -u [user] -w [wordlist]      
+./BruteWP.py -t [target] -u [user] -w [wordlist] -r [restaurar ataque]      
 
 
 
@@ -18,7 +18,7 @@ Screenshots
 ----
 
 
-![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/7840622/aabf92cc-046e-11e5-9947-c74ee0f06d83.png)
+![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/9443298/b0aaefb4-4a56-11e5-9197-345ea189f2fc.JPG)
 
 ![ScreenShot] (https://cloud.githubusercontent.com/assets/12612092/7840776/5ef00614-046f-11e5-974a-4d74f67993b6.png)
 
