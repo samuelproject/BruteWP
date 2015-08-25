@@ -39,3 +39,8 @@ Nota Legal
 
 Es importante mencionar que este script esta hecho con fines netamente Éticos. No me hago responsable por el mal uso que puedan brindarle.
 
+
+Contacto
+----
+Para contactarse conmigo [@saamux](https://twitter.com/saamux) con cualquier pregunta o característica que les gustaría ver en la próxima actualización.
+
