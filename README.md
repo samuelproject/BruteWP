@@ -37,7 +37,7 @@ El valor agregado que posee esta herramienta, es que si se desea pausar el escan
 Nota Legal
 ----
 
-Es importante mencionar que este script esta hecho con fines netamente Éticos. No me hago responsable por el mal uso que puedan brindarle.
+Es importante mencionar que este script está hecho con fines netamente Éticos. No me hago responsable por el mal uso que puedan brindarle.
 
 
 Contacto
