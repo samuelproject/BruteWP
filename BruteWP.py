@@ -57,7 +57,11 @@ def attack(target,user,wordlist, restore = None):
 
 
 def conexion():
-    parser = argparse.ArgumentParser(usage="./BruteWP.py -t [target] -u [user] -w [wordlist]")
+    parser = argparse.ArgumentParser(
+            usage="./BruteWP.py -t [target] -u [user] -w [wordlist]",
+            add_help=False,        
+    )
+    parser.add_argument("-h", "--help", action="help", help="Mostrar este mensaje de ayuda y salir")
     parser.add_argument("-t", help="Target a atacar. ejemplo: www.sitewordpress/wp-login.php")
     parser.add_argument("-u", help="Nombre de usuario de WordPress")
     parser.add_argument("-w", help="Diccionario para realizar el ataque")
