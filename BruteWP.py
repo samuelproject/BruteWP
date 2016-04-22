@@ -81,7 +81,7 @@ def attack(target, usuario, diccionario, restaurar = False):
                     encontrado = True
                     break
                 elif response.status_code == 200:
-                    print '[%d] - Password: %s' % (cont,password.strip())
+                    print '[%d] - Password: %s NOT FOUND' % (cont,password.strip())
                 else:
                     print 'Error!!!!'
 
